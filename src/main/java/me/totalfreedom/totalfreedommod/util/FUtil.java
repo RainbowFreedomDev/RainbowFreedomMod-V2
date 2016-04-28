@@ -60,7 +60,7 @@ public class FUtil
     //
     public static final String SAVED_FLAGS_FILENAME = "savedflags.dat";
     public static final Map<String, EntityType> MOB_TYPES = new HashMap<>();
-    public static final List<String> RF_DEVELOPERS = Arrays.asList("FoxIshDaBest", "ASMaster", "DUFC_Liam");
+    public static final List<String> RF_DEVELOPERS = Arrays.asList("FoxIshDaBest", "DUFC_Liam");
     // See https://github.com/TotalFreedom/License - None of the listed names may be removed.
     public static final List<String> DEVELOPERS = Arrays.asList("Madgeek1450", "Prozza", "Wild1145", "WickedGamingUK");
     public static String DATE_STORAGE_FORMAT = "EEE, d MMM yyyy HH:mm:ss Z";
